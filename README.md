@@ -1,16 +1,17 @@
-### Hi there 👋
+## Welcome to Kingzy's Github Pages ! 👋
 
-<!--
-**Kingzy-Chen/Kingzy-Chen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Contact Me 😃
++ **My Email：953727416@qq.com**
++ **My Website：https://kingzy-chen.github.io**
 
-Here are some ideas to get you started:
+### About Me 👀
++ 📚 An undergraduate student in Wuhan University of Technology (WHUT). Major in Data Science and Big Data Technology.
++ 🚀 Recently busy in the preparation of Summer Camps for postgraduate students.
++ 🧐 Participated in several MathModel Contests. Meritorious Winner of MCM/ICM 2021.
++ 🔭 Interested in Software Development and Computer Vision. Hot passion of learning new technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Some Awards ✨
++ **English Level：CET-4：610 / CET-6：551**
++ **2021 MCM/ICM Mathematical Contest in Modeling：Meritorious Winner**
++ **2020 Certificate Authority Cup International Mathematical Contest in Modeling：Outstanding Winner**
++ **ASC20-21 Student Supercomputer Challenge Contest：Second Class Prize Winner**
