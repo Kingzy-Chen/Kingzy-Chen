@@ -1,8 +1,8 @@
 ## Welcome to Kingzy's Github Pages ! 👋
 
 ### Contact Me 😃
-+ **My Email：953727416@qq.com**
 + **My Website：https://kingzy-chen.github.io**
++ **My Email：953727416@qq.com**
 
 ### About Me 👀
 + 📚 An undergraduate student in Wuhan University of Technology (WHUT). Major in Data Science and Big Data Technology.
